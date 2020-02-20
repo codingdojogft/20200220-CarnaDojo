@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/CarnaDojo/v16
+/CarnaDojo/bin/Debug/netcoreapp3.0
+/CarnaDojo/obj/Debug/netcoreapp3.0
+/CarnaDojo/obj
+/CarnaDojoTestes/bin/Debug/netcoreapp3.0
+/CarnaDojoTestes/obj
